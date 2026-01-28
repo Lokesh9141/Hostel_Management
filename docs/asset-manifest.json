@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5540faae.css",
+    "main.js": "/static/js/main.dc94bf80.js",
+    "static/media/money-finance-business-financial.jpg": "/static/media/money-finance-business-financial.0ba8c675777bd07ac676.jpg",
+    "index.html": "/index.html",
+    "main.5540faae.css.map": "/static/css/main.5540faae.css.map",
+    "main.dc94bf80.js.map": "/static/js/main.dc94bf80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5540faae.css",
+    "static/js/main.dc94bf80.js"
+  ]
+}
